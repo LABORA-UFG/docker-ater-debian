@@ -8,4 +8,5 @@ RUN apt-get -y update && apt-get -y install wget \
 	mtr \
 	ethtool \
 	uptimed \
-	python-dev
+	python-dev \
+	python-pip
